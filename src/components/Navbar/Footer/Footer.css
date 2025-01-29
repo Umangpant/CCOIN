@@ -1,0 +1,10 @@
+.footer {
+    text-align: center;
+    margin: auto;
+    max-width: 80%;
+    border-top: 1px solid #fdf5f5;
+    padding: 15px 0px;
+    font-size: 20px;
+    color: #1b1a1a;
+    font-family: 'Outfit', sans-serif; /* Use the Outfit font here */
+}
